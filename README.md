@@ -3,7 +3,7 @@
 **Dataset -** https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset
 
 **Summary:**
-In the "Smartphone Market Analysis" project, I embarked on a comprehensive exploration of smartphone sales data to uncover valuable insights into market trends, brand performance, and customer preferences. 
+In the Smartphone Market Analysis project, I embarked on a comprehensive exploration of smartphone sales data to uncover valuable insights into market trends, brand performance, and customer preferences. 
 
 **What I Did:**
 1. **Data Cleaning and Preparation:** I started by loading the dataset and performed necessary data cleaning tasks such as handling missing values, removing duplicates, and renaming columns for clarity.
